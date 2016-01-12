@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17 Δεκ 2015, 8:49:35 μμ
+    Author     : RG
+*/
+
+
+
+div.panel-danger{
+    width:30%;
+    margin-left: auto;
+    margin-right: auto;
+    /*margin-top: 5vh;*/
+    
+}
+
+.panel-body{
+    background-color: #fafafa!important;
+    border-radius:5px;
+    
+}
+/*#mainPane{
+    position: relative;
+    width: 100%;
+    min-height: 70vh!important;
+    margin-top: 10vh!important;
+
+}*/
+
+@media only screen 
+and (max-width: 1000px) {  
+
+div.panel-danger{
+
+    margin-top: 20vh;
+    
+}
+
+}
